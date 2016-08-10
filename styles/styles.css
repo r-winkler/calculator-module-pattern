@@ -1,0 +1,21 @@
+.Button {
+    background: linear-gradient(white, grey);
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-weight: bold;   
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.CalculatorHead {
+    background: : white;
+    height:50px;
+    width: 200px;
+}
+
+.Calculator {
+    width: 200px;        
+}
